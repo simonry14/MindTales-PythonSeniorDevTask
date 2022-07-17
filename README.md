@@ -44,4 +44,4 @@ Call for the vote API also requires an Accept-Version entry in the header to spe
 | GET /results                                    |         Show results of the day     |
 
 ## Running API
-Run the docker-compose up command from the top level directory of the project.
+Run the 'docker-compose up' command from the top level directory of the project and the api will run on port 8000 on your Docker host.
